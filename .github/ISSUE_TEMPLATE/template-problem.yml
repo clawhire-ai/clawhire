@@ -1,0 +1,29 @@
+name: Community Pack problem
+description: Report a reproducible issue in a public agent, workflow or document.
+title: "[Community Pack]: "
+labels: [documentation]
+body:
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Community Agent
+        - Workflow
+        - Example
+        - Documentation
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Do not include credentials, personal data or confidential information.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected improvement
+    validations:
+      required: true

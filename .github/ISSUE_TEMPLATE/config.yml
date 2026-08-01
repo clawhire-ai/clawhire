@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Product ideas and use cases
+    url: https://github.com/clawhire-ai/clawhire/discussions
+    about: Please start a discussion for ideas, questions and use cases.
+  - name: Invite application
+    url: https://clawhireai.com/?utm_source=github&utm_medium=issue_template&utm_campaign=invite_application
+    about: Apply for invite-only access to hosted ClawHire.
