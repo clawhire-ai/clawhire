@@ -24,18 +24,31 @@ ClawHire is project-centered. An AI CEO clarifies the goal, selects the right ro
 
 ![How ClawHire moves a project from idea to delivery](./assets/value-flow.svg)
 
+## The roundtable is where coordination happens
+
+This homepage **collaboration concept** follows an AI nutrition app project. The AI CEO clarifies and decomposes the goal; market, design and technical roles work from one project context; stage deliverables return to one workspace for human review and revision.
+
+![ClawHire AI nutrition project roundtable collaboration concept](./assets/roundtable-collaboration.png)
+
+- One shared project context instead of repeated copy-and-paste between agents
+- AI CEO discovery, task decomposition and sequencing
+- Capability matching across roles, models and Skills
+- Human control over direction, approval, return and adoption
+
+> This image explains the roundtable collaboration concept. The “Real product view” below is a separate sanitized workspace from the working product.
+
 ## What is free
 
 The intentionally lightweight **Community Pack** provides genuine standalone value:
 
 | Public resource | Included | What it gives you |
 |---|---:|---|
-| Community Agents | 6 | Copy, modify and call them manually in compatible AI tools |
+| Community Agents | 10 | Copy, modify and call them manually in compatible AI tools |
 | Lite workflows | 3 | Manually coordinate several roles using our project method |
 | Sanitized end-to-end example | 1 | See how four roles validate a product idea together |
 | Roadmap, FAQ and community docs | Ongoing | Understand boundaries and contribute ideas |
 
-These MIT-licensed resources do **not** include the complete AI CEO instructions, automatic planning and scheduling, persistent project state, model routing, internal quality rules or the commercial platform source code.
+These MIT-licensed resources do **not** include the complete AI CEO instructions, automatic planning and scheduling, persistent project state, multi-model routing, capability matching, Skill evolution, internal quality rules or the commercial platform source code.
 
 ## What the paid invite adds
 
@@ -43,16 +56,23 @@ Hosted ClawHire is not simply more Markdown files. It is the system that keeps t
 
 ![Community Pack versus hosted ClawHire](./assets/community-vs-hosted.svg)
 
+![Multi-model orchestration, capability matching and Skill evolution in hosted ClawHire](./assets/hosted-intelligence-layer.svg)
+
 | Capability | Free Community Pack | Paid hosted ClawHire |
 |---|---:|---:|
 | Lightweight role templates and manual one-off use | ✓ | ✓ |
 | Broader, continuously expanding professional role library | — | ✓ |
 | Dynamic AI CEO discovery and project consensus | — | ✓ |
 | Automatic role selection and task planning | — | ✓ |
+| Multi-model orchestration for task-fit capabilities | — | ✓ |
+| Capability matching across roles, models, tools and Skills | — | ✓ |
+| Skill evolution from feedback and quality review | — | ✓ |
 | Shared context and coordinated multi-role delivery | Manual | ✓ |
 | Persistent progress, deliverables and versions | — | ✓ |
 | Cross-review, human approval and continued revisions | — | ✓ |
 | Deliverable center, usage credits and hosted operations | — | ✓ |
+
+> Invite capabilities roll out by account and cohort. Current availability is stated clearly during onboarding.
 
 These capabilities require ongoing orchestration, model calls, project state, storage, permissions and service operations. We open useful methods and templates while keeping the operating system behind the subscription product.
 
@@ -78,6 +98,12 @@ This is a sanitized ClawHire project workspace, not a conceptual mockup. An AI C
 | [Content Planner](./community-agents/content-planner.md) | Content positioning, topics and weekly plans |
 | [Office Process Analyst](./community-agents/office-process-analyst.md) | Workflows, SOPs and automation opportunities |
 | [Risk Reviewer](./community-agents/risk-reviewer.md) | Evidence, logic, scope and major risks |
+| [Brand Positioning Advisor](./community-agents/brand-positioning-advisor.md) | Positioning, message hierarchy and creative direction |
+| [Sales Message Advisor](./community-agents/sales-message-advisor.md) | Outreach, discovery and follow-up drafts |
+| [Customer Feedback Analyst](./community-agents/customer-feedback-analyst.md) | Traceable themes and decision support |
+| [Project Scope Reviewer](./community-agents/project-scope-reviewer.md) | Deliverables, dependencies and acceptance criteria |
+
+Every public Agent is stateless and requires manual context. It does not select other roles, call tools, share project memory, route models or evolve Skills automatically.
 
 ## Manual workflows
 

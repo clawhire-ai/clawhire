@@ -2,7 +2,7 @@
 
 ## Is ClawHire open source?
 
-Not as a complete product. ClawHire is a commercial hosted service. Its orchestration, project state, model routing and commercial systems remain private. This repository opens a limited Community Pack of templates, workflows, examples and documentation.
+Not as a complete product. ClawHire is a commercial hosted service. Its orchestration, project state, multi-model routing, capability matching, Skill evolution and commercial systems remain private. This repository opens a limited Community Pack of templates, workflows, examples and documentation.
 
 ## What is the difference between this repository and ClawHire?
 

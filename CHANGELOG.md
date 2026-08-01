@@ -1,5 +1,12 @@
 # Changelog
 
+## Unreleased
+
+- Expanded the Community Pack from six to ten stateless Agents.
+- Added Brand Positioning Advisor, Sales Message Advisor, Customer Feedback Analyst and Project Scope Reviewer.
+- Added a homepage roundtable collaboration concept to explain project-level teamwork.
+- Clarified that multi-model orchestration, capability matching and Skill evolution remain hosted product capabilities.
+
 ## 0.1.0 — Initial Community Pack
 
 - Added six stateless Community Agents.
