@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Six ClawHire application scenarios</title>
+  <desc id="desc">Six project scenarios: product validation, brand building, content growth, website and app prototyping, marketing and sales, and operations efficiency.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090a0d"/><stop offset="1" stop-color="#190d17"/></linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffd0b8"/><stop offset=".5" stop-color="#ff746b"/><stop offset="1" stop-color="#d84289"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".024"/></pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dy="10" stdDeviation="16" flood-color="#000" flood-opacity=".42"/></filter>
+  </defs>
+  <rect width="1200" height="720" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="720" rx="24" fill="url(#grid)"/>
+  <text x="52" y="56" fill="#f8f3ef" font-family="Inter,Arial,sans-serif" font-size="21" font-weight="850">SIX PROJECTS. ONE COORDINATED AI TEAM.</text>
+  <text x="52" y="86" fill="#918a94" font-family="PingFang SC,Noto Sans CJK SC,Arial,sans-serif" font-size="15">从验证想法到持续运营，不是切换六个聊天框，而是围绕项目目标组织专业岗位</text>
+  <g font-family="Inter,PingFang SC,Noto Sans CJK SC,Arial,sans-serif" filter="url(#shadow)">
+    <g transform="translate(52 126)">
+      <rect width="340" height="224" rx="20" fill="#141419" stroke="#493039"/>
+      <circle cx="35" cy="36" r="18" fill="#ff746b" fill-opacity=".12" stroke="#ff746b"/><path d="M27 36h16M35 28v16" stroke="#ff9a82" stroke-width="2"/>
+      <text x="66" y="33" fill="#ff9a82" font-size="11" font-weight="850">01 · VALIDATE</text>
+      <text x="22" y="88" fill="#fff" font-size="23" font-weight="800">产品验证与 MVP</text>
+      <text x="22" y="120" fill="#aaa3ab" font-size="14">验证用户、需求、市场与最小范围</text>
+      <text x="22" y="150" fill="#e1dbe0" font-size="13">市场报告 · 用户画像 · MVP Brief</text>
+      <text x="22" y="176" fill="#e1dbe0" font-size="13">验证计划 · 风险清单</text>
+      <rect x="22" y="193" width="112" height="20" rx="10" fill="#282128"/><text x="78" y="207" text-anchor="middle" fill="#bdb5bd" font-size="10">COMMUNITY READY</text>
+    </g>
+    <g transform="translate(430 126)">
+      <rect width="340" height="224" rx="20" fill="#151419" stroke="#493743"/>
+      <circle cx="35" cy="36" r="18" fill="#e8aa68" fill-opacity=".12" stroke="#e8aa68"/><path d="m28 42 7-14 7 14M31 37h8" fill="none" stroke="#f6d18b" stroke-width="2"/>
+      <text x="66" y="33" fill="#f6d18b" font-size="11" font-weight="850">02 · POSITION</text>
+      <text x="22" y="88" fill="#fff" font-size="23" font-weight="800">品牌定位与视觉</text>
+      <text x="22" y="120" fill="#aaa3ab" font-size="14">把产品差异转成可信、统一的品牌表达</text>
+      <text x="22" y="150" fill="#e1dbe0" font-size="13">定位陈述 · 信息层级 · 品牌语言</text>
+      <text x="22" y="176" fill="#e1dbe0" font-size="13">视觉方向 · 素材任务书</text>
+      <rect x="22" y="193" width="112" height="20" rx="10" fill="#282128"/><text x="78" y="207" text-anchor="middle" fill="#bdb5bd" font-size="10">COMMUNITY READY</text>
+    </g>
+    <g transform="translate(808 126)">
+      <rect width="340" height="224" rx="20" fill="#151319" stroke="#513243"/>
+      <circle cx="35" cy="36" r="18" fill="#d84289" fill-opacity=".12" stroke="#d84289"/><path d="M27 41h5l4-12 5 12h3" fill="none" stroke="#ec78ad" stroke-width="2"/>
+      <text x="66" y="33" fill="#ec78ad" font-size="11" font-weight="850">03 · GROW</text>
+      <text x="22" y="88" fill="#fff" font-size="23" font-weight="800">内容生产与账号运营</text>
+      <text x="22" y="120" fill="#aaa3ab" font-size="14">让选题、脚本、发布与复盘形成节奏</text>
+      <text x="22" y="150" fill="#e1dbe0" font-size="13">选题库 · 内容脚本 · 发布日历</text>
+      <text x="22" y="176" fill="#e1dbe0" font-size="13">运营 SOP · 复盘建议</text>
+      <rect x="22" y="193" width="118" height="20" rx="10" fill="#2e1c27"/><text x="81" y="207" text-anchor="middle" fill="#e6a9c6" font-size="10">PHASED HOSTED</text>
+    </g>
+    <g transform="translate(52 382)">
+      <rect width="340" height="224" rx="20" fill="#141419" stroke="#493039"/>
+      <circle cx="35" cy="36" r="18" fill="#9b6fd6" fill-opacity=".12" stroke="#9b6fd6"/><path d="M26 29h18v14H26zM26 34h18" fill="none" stroke="#bd98ed" stroke-width="2"/>
+      <text x="66" y="33" fill="#bd98ed" font-size="11" font-weight="850">04 · PROTOTYPE</text>
+      <text x="22" y="88" fill="#fff" font-size="23" font-weight="800">网站与应用原型</text>
+      <text x="22" y="120" fill="#aaa3ab" font-size="14">把创意变成可评审的结构和实现计划</text>
+      <text x="22" y="150" fill="#e1dbe0" font-size="13">需求范围 · 信息架构 · 页面文案</text>
+      <text x="22" y="176" fill="#e1dbe0" font-size="13">原型计划 · 技术方案 · 验收标准</text>
+      <rect x="22" y="193" width="118" height="20" rx="10" fill="#241d30"/><text x="81" y="207" text-anchor="middle" fill="#c5abe7" font-size="10">PHASED HOSTED</text>
+    </g>
+    <g transform="translate(430 382)">
+      <rect width="340" height="224" rx="20" fill="#151419" stroke="#493743"/>
+      <circle cx="35" cy="36" r="18" fill="#ff746b" fill-opacity=".12" stroke="#ff746b"/><path d="M27 40c6-12 11-12 16 0M29 31h12" fill="none" stroke="#ff9a82" stroke-width="2"/>
+      <text x="66" y="33" fill="#ff9a82" font-size="11" font-weight="850">05 · CONVERT</text>
+      <text x="22" y="88" fill="#fff" font-size="23" font-weight="800">营销获客与销售转化</text>
+      <text x="22" y="120" fill="#aaa3ab" font-size="14">从目标客户到话术、线索与跟进节奏</text>
+      <text x="22" y="150" fill="#e1dbe0" font-size="13">客户画像 · 获客策略 · 外联话术</text>
+      <text x="22" y="176" fill="#e1dbe0" font-size="13">异议回复 · 跟进序列</text>
+      <rect x="22" y="193" width="118" height="20" rx="10" fill="#2e1c27"/><text x="81" y="207" text-anchor="middle" fill="#e6a9c6" font-size="10">PHASED HOSTED</text>
+    </g>
+    <g transform="translate(808 382)">
+      <rect width="340" height="224" rx="20" fill="#151319" stroke="#513243"/>
+      <circle cx="35" cy="36" r="18" fill="#e8aa68" fill-opacity=".12" stroke="#e8aa68"/><path d="M27 30h16v14H27zM31 27v6M39 27v6M30 38h10" fill="none" stroke="#f6d18b" stroke-width="2"/>
+      <text x="66" y="33" fill="#f6d18b" font-size="11" font-weight="850">06 · OPERATE</text>
+      <text x="22" y="88" fill="#fff" font-size="23" font-weight="800">企业运营与办公提效</text>
+      <text x="22" y="120" fill="#aaa3ab" font-size="14">梳理重复流程、责任边界与自动化机会</text>
+      <text x="22" y="150" fill="#e1dbe0" font-size="13">流程图 · SOP · 自动化评估</text>
+      <text x="22" y="176" fill="#e1dbe0" font-size="13">任务清单 · 指标与风险提醒</text>
+      <rect x="22" y="193" width="112" height="20" rx="10" fill="#282128"/><text x="78" y="207" text-anchor="middle" fill="#bdb5bd" font-size="10">COMMUNITY READY</text>
+    </g>
+  </g>
+  <rect x="52" y="636" width="1096" height="42" rx="21" fill="#1c151b" stroke="#65394b"/>
+  <text x="600" y="662" text-anchor="middle" fill="#d9d1d7" font-family="Inter,PingFang SC,Noto Sans CJK SC,Arial,sans-serif" font-size="13" font-weight="700">同一项目上下文 · AI CEO 拆解 · 专业岗位协作 · 人工审核与修改</text>
+  <rect x="1" y="1" width="1198" height="718" rx="23" fill="none" stroke="#fff" stroke-opacity=".07" stroke-width="2"/>
+</svg>
