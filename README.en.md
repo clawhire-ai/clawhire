@@ -24,6 +24,15 @@ ClawHire is project-centered. An AI CEO clarifies the goal, selects the right ro
 
 ![How ClawHire moves a project from idea to delivery](./assets/value-flow.svg)
 
+## Start with the Community Pack in 60 seconds
+
+1. Pick the Community Agent closest to the decision in front of you.
+2. Copy the full Markdown role into your preferred general-purpose AI tool.
+3. Add your goal, evidence, constraints and required decision.
+4. Review the output and manually pass useful context to the next Agent when needed.
+
+For product validation, try Market Researcher → User Researcher → Product Strategist → Risk Reviewer. The [sanitized end-to-end example](./examples/ai-recipe-validation/README.md) shows the expected structure.
+
 ## The roundtable is where coordination happens
 
 This homepage **collaboration concept** follows an AI nutrition app project. The AI CEO clarifies and decomposes the goal; market, design and technical roles work from one project context; stage deliverables return to one workspace for human review and revision.
@@ -36,6 +45,21 @@ This homepage **collaboration concept** follows an AI nutrition app project. The
 - Human control over direction, approval, return and adoption
 
 > This image explains the roundtable collaboration concept. The “Real product view” below is a separate sanitized workspace from the working product.
+
+## Six application scenarios
+
+![Six ClawHire AI project application scenarios](./assets/six-application-scenarios.svg)
+
+| Project scenario | Example roles | Primary deliverables |
+|---|---|---|
+| Product validation and MVP | Market, user, product, risk | Market brief, personas, MVP brief, validation plan |
+| Brand positioning and visual direction | Market, brand, design, content | Position, messaging, visual direction, asset brief |
+| Content production and account operations | Market, content, design, operations | Topics, scripts, publishing calendar, SOP, review plan |
+| Website and app prototyping | Product, design, technical, risk | Scope, information architecture, page copy, prototype plan |
+| Acquisition and sales conversion | Market, content, sales, support | Audience, acquisition plan, outreach, objections, follow-up |
+| Business operations and office efficiency | Process, operations, finance, risk | Process map, SOP, automation assessment, risk checklist |
+
+The Community Pack already supports research, planning, copy and review. Automated web research, code and deployment, media generation, publishing, email and spreadsheet actions roll out separately in the paid invite product.
 
 ## What is free
 
