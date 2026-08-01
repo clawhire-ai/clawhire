@@ -20,7 +20,7 @@
     <text x="24" y="92" fill="#fff" font-size="29" font-weight="800">Community Pack</text>
     <text x="24" y="120" fill="#918b94" font-size="15">公开、无状态、由你手动调用</text>
     <g font-size="16">
-      <g transform="translate(24 158)"><circle cx="9" cy="-5" r="9" fill="#ff746b" fill-opacity=".13" stroke="#ff746b"/><path d="m5-5 3 3 6-7" fill="none" stroke="#ff9a82" stroke-width="2"/><text x="32" fill="#ddd7dd">6 个轻量 Community Agents</text></g>
+      <g transform="translate(24 158)"><circle cx="9" cy="-5" r="9" fill="#ff746b" fill-opacity=".13" stroke="#ff746b"/><path d="m5-5 3 3 6-7" fill="none" stroke="#ff9a82" stroke-width="2"/><text x="32" fill="#ddd7dd">10 个轻量 Community Agents</text></g>
       <g transform="translate(24 205)"><circle cx="9" cy="-5" r="9" fill="#ff746b" fill-opacity=".13" stroke="#ff746b"/><path d="m5-5 3 3 6-7" fill="none" stroke="#ff9a82" stroke-width="2"/><text x="32" fill="#ddd7dd">3 个手动 Lite 工作流</text></g>
       <g transform="translate(24 252)"><circle cx="9" cy="-5" r="9" fill="#ff746b" fill-opacity=".13" stroke="#ff746b"/><path d="m5-5 3 3 6-7" fill="none" stroke="#ff9a82" stroke-width="2"/><text x="32" fill="#ddd7dd">1 个脱敏项目案例</text></g>
       <g transform="translate(24 299)"><circle cx="9" cy="-5" r="9" fill="#ff746b" fill-opacity=".13" stroke="#ff746b"/><path d="m5-5 3 3 6-7" fill="none" stroke="#ff9a82" stroke-width="2"/><text x="32" fill="#ddd7dd">复制、修改、单次运行</text></g>
@@ -35,8 +35,8 @@
     <text x="24" y="120" fill="#b5adb5" font-size="15">项目级、持续运行、由系统自动编排</text>
     <g font-size="16">
       <g transform="translate(24 158)"><circle cx="9" cy="-5" r="9" fill="#e8aa68" fill-opacity=".13" stroke="#e8aa68"/><path d="m5-5 3 3 6-7" fill="none" stroke="#f6d18b" stroke-width="2"/><text x="32" fill="#f1ebef">AI CEO 动态访谈与自动组队</text></g>
-      <g transform="translate(24 205)"><circle cx="9" cy="-5" r="9" fill="#e8aa68" fill-opacity=".13" stroke="#e8aa68"/><path d="m5-5 3 3 6-7" fill="none" stroke="#f6d18b" stroke-width="2"/><text x="32" fill="#f1ebef">多岗位共享上下文、协作与复核</text></g>
-      <g transform="translate(24 252)"><circle cx="9" cy="-5" r="9" fill="#e8aa68" fill-opacity=".13" stroke="#e8aa68"/><path d="m5-5 3 3 6-7" fill="none" stroke="#f6d18b" stroke-width="2"/><text x="32" fill="#f1ebef">项目状态、进度、成果版本留存</text></g>
+      <g transform="translate(24 205)"><circle cx="9" cy="-5" r="9" fill="#e8aa68" fill-opacity=".13" stroke="#e8aa68"/><path d="m5-5 3 3 6-7" fill="none" stroke="#f6d18b" stroke-width="2"/><text x="32" fill="#f1ebef">多模型调度、能力匹配与 Skill 进化</text></g>
+      <g transform="translate(24 252)"><circle cx="9" cy="-5" r="9" fill="#e8aa68" fill-opacity=".13" stroke="#e8aa68"/><path d="m5-5 3 3 6-7" fill="none" stroke="#f6d18b" stroke-width="2"/><text x="32" fill="#f1ebef">共享上下文、协作复核与版本留存</text></g>
       <g transform="translate(24 299)"><circle cx="9" cy="-5" r="9" fill="#e8aa68" fill-opacity=".13" stroke="#e8aa68"/><path d="m5-5 3 3 6-7" fill="none" stroke="#f6d18b" stroke-width="2"/><text x="32" fill="#f1ebef">人工审批、退回修改与持续推进</text></g>
     </g>
   </g>

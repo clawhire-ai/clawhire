@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">ClawHire hosted intelligence layer</title>
+  <desc id="desc">Hosted ClawHire combines multi-model orchestration, capability matching and Skill evolution around a persistent project context.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090a0d"/><stop offset="1" stop-color="#180d17"/></linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffd0b8"/><stop offset=".48" stop-color="#ff746b"/><stop offset="1" stop-color="#d84289"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#d84289" stop-opacity=".3"/><stop offset="1" stop-color="#d84289" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".025"/></pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dy="10" stdDeviation="15" flood-color="#000" flood-opacity=".5"/></filter>
+  </defs>
+  <rect width="1200" height="420" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="22" fill="url(#grid)"/>
+  <circle cx="600" cy="230" r="300" fill="url(#glow)"/>
+  <text x="52" y="52" fill="#f8f3ef" font-family="Inter,Arial,sans-serif" font-size="20" font-weight="800">THE INTELLIGENCE LAYER STAYS HOSTED</text>
+  <text x="52" y="80" fill="#908a93" font-family="PingFang SC,Noto Sans CJK SC,Arial,sans-serif" font-size="15">公开岗位方法，保留让团队持续匹配、调度与进化的系统能力</text>
+  <g font-family="Inter,PingFang SC,Noto Sans CJK SC,Arial,sans-serif" filter="url(#shadow)">
+    <g transform="translate(52 122)">
+      <rect width="320" height="218" rx="20" fill="#141419" stroke="#493039"/>
+      <rect x="22" y="22" width="58" height="26" rx="13" fill="#ff746b" fill-opacity=".13" stroke="#ff746b"/>
+      <text x="51" y="40" text-anchor="middle" fill="#ff9a82" font-size="11" font-weight="900">ROUTE</text>
+      <text x="22" y="88" fill="#fff" font-size="25" font-weight="800">多模型调度</text>
+      <text x="22" y="119" fill="#aaa3ab" font-size="14">按任务的推理、代码、语言和</text>
+      <text x="22" y="141" fill="#aaa3ab" font-size="14">成本要求选择更适配的模型能力</text>
+      <path d="M24 174h118M154 174h142" stroke="#43363f" stroke-width="2"/><circle cx="148" cy="174" r="6" fill="#ff746b"/>
+      <text x="22" y="200" fill="#77717a" font-size="12">TASK → MODEL FIT</text>
+    </g>
+    <g transform="translate(440 106)">
+      <rect width="320" height="250" rx="22" fill="#181318" stroke="url(#brand)" stroke-width="1.5"/>
+      <rect x="22" y="22" width="66" height="26" rx="13" fill="url(#brand)"/>
+      <text x="55" y="40" text-anchor="middle" fill="#171014" font-size="11" font-weight="900">MATCH</text>
+      <text x="22" y="88" fill="#fff" font-size="27" font-weight="800">能力匹配</text>
+      <text x="22" y="119" fill="#bbb3bb" font-size="14">把目标拆成任务，并组合合适的</text>
+      <text x="22" y="141" fill="#bbb3bb" font-size="14">岗位、模型、工具与专业 Skill</text>
+      <g transform="translate(32 174)" fill="none" stroke-width="1.5">
+        <circle cx="28" cy="20" r="20" stroke="#e8aa68"/><circle cx="98" cy="20" r="20" stroke="#ff746b"/><circle cx="168" cy="20" r="20" stroke="#d84289"/><circle cx="238" cy="20" r="20" stroke="#9b6fd6"/>
+        <path d="M48 20h30M118 20h30M188 20h30" stroke="#5c4651"/>
+      </g>
+      <text x="22" y="228" fill="#807881" font-size="12">ROLE · MODEL · TOOL · SKILL</text>
+    </g>
+    <g transform="translate(828 122)">
+      <rect width="320" height="218" rx="20" fill="#141419" stroke="#493039"/>
+      <rect x="22" y="22" width="62" height="26" rx="13" fill="#d84289" fill-opacity=".13" stroke="#d84289"/>
+      <text x="53" y="40" text-anchor="middle" fill="#ec78ad" font-size="11" font-weight="900">EVOLVE</text>
+      <text x="22" y="88" fill="#fff" font-size="25" font-weight="800">Skill 进化</text>
+      <text x="22" y="119" fill="#aaa3ab" font-size="14">把人工反馈、审核结果和失败模式</text>
+      <text x="22" y="141" fill="#aaa3ab" font-size="14">沉淀为可复用的工作方法与质量规则</text>
+      <path d="M27 184c34-34 67-12 99-25s66-45 98-22 49 3 70-16" fill="none" stroke="url(#brand)" stroke-width="3" stroke-linecap="round"/>
+      <text x="22" y="205" fill="#77717a" font-size="12">FEEDBACK → BETTER WORK</text>
+    </g>
+  </g>
+  <path d="M372 231h68M760 231h68" stroke="#80505f" stroke-width="2" stroke-dasharray="5 7"/>
+  <rect x="422" y="370" width="356" height="30" rx="15" fill="#211820" stroke="#6d3a4e"/>
+  <text x="600" y="390" text-anchor="middle" fill="#d9d1d7" font-family="Inter,PingFang SC,Noto Sans CJK SC,Arial,sans-serif" font-size="12" font-weight="700">PERSISTENT PROJECT CONTEXT · 持续项目上下文</text>
+  <rect x="1" y="1" width="1198" height="418" rx="21" fill="none" stroke="#fff" stroke-opacity=".07" stroke-width="2"/>
+</svg>
