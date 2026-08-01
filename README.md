@@ -12,7 +12,7 @@
 [![License](https://img.shields.io/github/license/clawhire-ai/clawhire?style=flat-square&color=d84289)](./LICENSE)
 [![Stars](https://img.shields.io/github/stars/clawhire-ai/clawhire?style=flat-square&color=e8aa68)](https://github.com/clawhire-ai/clawhire/stargazers)
 
-[⭐ Star 并关注更新](https://github.com/clawhire-ai/clawhire) · [先用免费 Community Pack](#免费公开了什么) · [查看真实案例](#真实产品画面) · [申请付费版邀请码](https://clawhireai.com/?utm_source=github&utm_medium=readme&utm_campaign=invite_application) · [English](./README.en.md)
+[🚀 2 分钟开始](./START_HERE.md) · [⭐ Star 并关注更新](https://github.com/clawhire-ai/clawhire) · [查看真实案例](#真实产品画面) · [申请付费版邀请码](https://clawhireai.com/?utm_source=github&utm_medium=readme&utm_campaign=invite_application) · [English](./README.en.md)
 
 </div>
 
@@ -36,6 +36,28 @@ ClawHire 以“项目”而不是“提示词文件”为中心：AI CEO 先理�
 4. 审核输出；需要跨岗位时，由你手动把结论传给下一个 Agent。
 
 第一次体验产品验证，可按“市场研究员 → 用户研究员 → 产品策略师 → 风险审核员”的顺序手动运行；[完整脱敏案例](./examples/ai-recipe-validation/README.md)展示了预期结构。
+
+### 不知道选哪个？从你要做的决定开始
+
+| 你的目标 | 第一个入口 | 你会得到 |
+|---|---|---|
+| 验证产品想法 | [市场研究员](./community-agents/market-researcher.md) | 需求信号、竞品与差异化假设 |
+| 收敛 MVP | [产品策略师](./community-agents/product-strategist.md) | 定位、范围、非目标与验证计划 |
+| 做内容增长 | [内容策划师](./community-agents/content-planner.md) | 内容支柱、选题与一周发布计划 |
+| 优化办公流程 | [办公流程分析师](./community-agents/office-process-analyst.md) | 流程瓶颈、自动化机会与优先级 |
+| 审核方案风险 | [风险审核员](./community-agents/risk-reviewer.md) | 证据缺口、主要风险与最小下一步 |
+
+[打开 2 分钟上手指南，复制第一张任务卡 →](./START_HERE.md)
+
+## 这套公开内容适合谁
+
+| 比较适合 | 暂时不适合 |
+|---|---|
+| 创业者、独立开发者和小团队，在做产品、内容、销售或流程决策 | 想直接下载完整 SaaS 后端或商业平台源代码的人 |
+| 希望先用真实 Agent 模板验证 ClawHire 方法，再决定是否申请邀请 | 期待免费版自动联网、发邮件、部署代码或替你发布内容的人 |
+| 愿意提供上下文、审核事实，并对关键决定负责的用户 | 希望 Agent 无需确认即可完全自主执行高风险任务的人 |
+
+如果你只需要一个提示词库，Community Pack 可以独立使用；如果你需要项目记忆、自动组队、跨岗位协作和持续修改，才需要付费邀请版。
 
 ## 圆桌不是装饰，而是协作发生的地方
 
@@ -146,6 +168,10 @@ Community Pack 已能支持其中的研究、规划、文案和审核环节。�
 当前邀请测试版重点提供项目访谈、规划、多岗位协作，以及文本/Markdown 成果的版本化交付。网页研究、代码执行、自动部署、图片视频制作，以及邮箱、在线表格和内容平台的外部执行仍在开发中；Roadmap 能力不会被描述为已经上线。
 
 ## Roadmap 与社区
+
+### 为什么值得 Star
+
+这个仓库会继续沉淀可独立使用的 Community Agents、Lite 工作流、脱敏项目案例，以及对免费与付费能力边界的透明说明。Star 可以让你方便地回来使用，也让我们知道哪些公开场景值得优先完善。
 
 - 查看 [Roadmap](./ROADMAP.md)、[FAQ](./FAQ.md) 和 [更新日志](./CHANGELOG.md)。
 - 在 [Discussions](https://github.com/clawhire-ai/clawhire/discussions) 分享项目场景或提出建议。

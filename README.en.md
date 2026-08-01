@@ -8,7 +8,7 @@
 
 You set the goal and make key decisions. An AI CEO discovers the project, creates a plan and assembles specialized AI employees. Their work, reviews and revisions stay together in one workspace.
 
-[⭐ Star and follow](https://github.com/clawhire-ai/clawhire) · [Use the free Community Pack](#what-is-free) · [View a real example](#real-product-view) · [Apply for a paid invite](https://clawhireai.com/?utm_source=github&utm_medium=readme_en&utm_campaign=invite_application) · [中文](./README.md)
+[🚀 Start in 2 minutes](./START_HERE.md#english-quick-start) · [⭐ Star and follow](https://github.com/clawhire-ai/clawhire) · [View a real example](#real-product-view) · [Apply for a paid invite](https://clawhireai.com/?utm_source=github&utm_medium=readme_en&utm_campaign=invite_application) · [中文](./README.md)
 
 </div>
 
@@ -32,6 +32,28 @@ ClawHire is project-centered. An AI CEO clarifies the goal, selects the right ro
 4. Review the output and manually pass useful context to the next Agent when needed.
 
 For product validation, try Market Researcher → User Researcher → Product Strategist → Risk Reviewer. The [sanitized end-to-end example](./examples/ai-recipe-validation/README.md) shows the expected structure.
+
+### Start from the decision in front of you
+
+| Your goal | First entry point | What you should get |
+|---|---|---|
+| Validate a product idea | [Market Researcher](./community-agents/market-researcher.md) | Demand signals, alternatives and differentiation hypotheses |
+| Scope an MVP | [Product Strategist](./community-agents/product-strategist.md) | Positioning, scope, non-goals and validation plan |
+| Build a content plan | [Content Planner](./community-agents/content-planner.md) | Content pillars, topics and a one-week schedule |
+| Improve an office process | [Office Process Analyst](./community-agents/office-process-analyst.md) | Bottlenecks, automation opportunities and priorities |
+| Stress-test a plan | [Risk Reviewer](./community-agents/risk-reviewer.md) | Evidence gaps, major risks and the smallest next step |
+
+[Open the two-minute guide and copy your first task card →](./START_HERE.md#english-quick-start)
+
+## Who this is for
+
+| Good fit | Not the right fit yet |
+|---|---|
+| Founders, independent builders and small teams making product, content, sales or operations decisions | Anyone looking for the complete SaaS backend or commercial platform source code |
+| People who want to test the ClawHire method with useful public templates before applying | Anyone expecting the free pack to browse, email, deploy or publish automatically |
+| Users willing to provide context, verify claims and retain control of key decisions | High-risk workflows that must run fully autonomously without human approval |
+
+If you only need a role template, the Community Pack stands on its own. Hosted ClawHire is for persistent context, automatic team assembly, cross-role delivery and continued revisions.
 
 ## The roundtable is where coordination happens
 
@@ -140,6 +162,10 @@ Every public Agent is stateless and requires manual context. It does not select 
 The invite build currently focuses on discovery, planning, multi-role collaboration and versioned text/Markdown deliverables. Web research, code execution, deployment, media production and external email, spreadsheet or publishing actions remain in development. Roadmap capabilities are not presented as already available.
 
 ## Community and license
+
+### Why Star this repository
+
+This repository will continue to collect standalone Community Agents, Lite workflows, sanitized project examples and transparent free-versus-hosted boundaries. A Star makes it easy to return and helps us see which public scenarios deserve the most attention.
 
 - Read the [Roadmap](./ROADMAP.md), [FAQ](./FAQ.md) and [Changelog](./CHANGELOG.md).
 - Share scenarios and ideas in [Discussions](https://github.com/clawhire-ai/clawhire/discussions).
