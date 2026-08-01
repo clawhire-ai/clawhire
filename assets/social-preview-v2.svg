@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#090A0D"/>
+      <stop offset=".58" stop-color="#0E0D13"/>
+      <stop offset="1" stop-color="#170C16"/>
+    </linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFD0B8"/>
+      <stop offset=".48" stop-color="#FF746B"/>
+      <stop offset="1" stop-color="#D84289"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#F6D18B"/>
+      <stop offset="1" stop-color="#E8AA68"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#D84289" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#D84289" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#000" flood-opacity=".45"/>
+    </filter>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#FFFFFF" stroke-opacity=".032"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <rect width="1280" height="640" fill="url(#grid)"/>
+  <circle cx="1040" cy="310" r="380" fill="url(#glow)" opacity=".72"/>
+  <circle cx="48" cy="618" r="240" fill="url(#glow)" opacity=".18"/>
+
+  <!-- Brand -->
+  <g transform="translate(64 54)">
+    <path d="M0 0h54l18 18v54H18L0 54Z" fill="#111218" stroke="#3A3039" stroke-width="2"/>
+    <path d="M45 22a17 17 0 1 0 0 28" fill="none" stroke="url(#brand)" stroke-width="6" stroke-linecap="round"/>
+    <path d="m43 20 10-6-2 11m-8 27 10 6-2-11" fill="none" stroke="url(#brand)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="28" cy="36" r="3" fill="#FFD0B8"/>
+    <text x="94" y="32" fill="#F8F3EF" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="720" letter-spacing=".2">ClawHire AI</text>
+    <text x="94" y="58" fill="#8F8993" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="2.5">AI EMPLOYEE WORKSPACE</text>
+  </g>
+
+  <!-- Main copy -->
+  <g transform="translate(64 220)">
+    <text fill="url(#gold)" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="50" font-weight="760" letter-spacing="1">不只是更多 Agent</text>
+    <text y="72" fill="#FFFFFF" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="50" font-weight="760" letter-spacing="1">而是持续推进的 AI 团队</text>
+    <rect y="112" width="88" height="3" rx="1.5" fill="url(#brand)"/>
+    <text y="150" fill="#B7B1BA" font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="19">AI CEO 访谈 · 自动组队 · 项目状态 · 审批与返工</text>
+    <g transform="translate(0 207)">
+      <rect width="288" height="48" rx="24" fill="#151218" stroke="#4C343E"/>
+      <circle cx="26" cy="24" r="5" fill="#FF746B"/>
+      <text x="42" y="30" fill="#E8DFE3" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="650">Community Pack + Hosted SaaS</text>
+    </g>
+    <text y="304" fill="#D4A66C" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="650">clawhireai.com</text>
+  </g>
+
+  <!-- Team system -->
+  <g transform="translate(760 88)" filter="url(#shadow)">
+    <circle cx="236" cy="235" r="220" fill="#100F15" stroke="#3B2532" stroke-width="2"/>
+    <circle cx="236" cy="235" r="168" fill="none" stroke="#FF746B" stroke-opacity=".2"/>
+    <circle cx="236" cy="235" r="112" fill="none" stroke="#E8AA68" stroke-opacity=".28" stroke-dasharray="5 9"/>
+
+    <g stroke="#E8AA68" stroke-opacity=".48" stroke-width="2">
+      <path d="M236 235 236 73"/>
+      <path d="M236 235 390 148"/>
+      <path d="M236 235 388 327"/>
+      <path d="M236 235 236 412"/>
+      <path d="M236 235 82 327"/>
+      <path d="M236 235 82 148"/>
+    </g>
+    <g fill="#F6D18B">
+      <circle cx="236" cy="152" r="4"/><circle cx="313" cy="192" r="4"/><circle cx="313" cy="280" r="4"/>
+      <circle cx="236" cy="326" r="4"/><circle cx="158" cy="280" r="4"/><circle cx="158" cy="192" r="4"/>
+    </g>
+
+    <circle cx="236" cy="235" r="68" fill="#17131A" stroke="#F1BE73" stroke-width="3"/>
+    <circle cx="236" cy="235" r="54" fill="#E8AA68" fill-opacity=".08"/>
+    <text x="236" y="229" text-anchor="middle" fill="#F6D18B" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="800" letter-spacing="2">AI CEO</text>
+    <text x="236" y="254" text-anchor="middle" fill="#A9A1AA" font-family="PingFang SC, sans-serif" font-size="13">访谈 · 规划 · 编排</text>
+
+    <g font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" text-anchor="middle">
+      <g transform="translate(236 73)"><circle r="45" fill="#17131A" stroke="#613344" stroke-width="2"/><text y="5" fill="#FFB08C">RESEARCH</text></g>
+      <g transform="translate(390 148)"><circle r="45" fill="#17131A" stroke="#613344" stroke-width="2"/><text y="5" fill="#FF8B82">PRODUCT</text></g>
+      <g transform="translate(388 327)"><circle r="45" fill="#17131A" stroke="#613344" stroke-width="2"/><text y="5" fill="#EA6DA5">DESIGN</text></g>
+      <g transform="translate(236 412)"><circle r="45" fill="#17131A" stroke="#613344" stroke-width="2"/><text y="5" fill="#FFB08C">OPERATIONS</text></g>
+      <g transform="translate(82 327)"><circle r="45" fill="#17131A" stroke="#613344" stroke-width="2"/><text y="5" fill="#FF8B82">CONTENT</text></g>
+      <g transform="translate(82 148)"><circle r="45" fill="#17131A" stroke="#613344" stroke-width="2"/><text y="5" fill="#EA6DA5">REVIEW</text></g>
+    </g>
+  </g>
+
+  <rect x="1" y="1" width="1278" height="638" fill="none" stroke="#FFFFFF" stroke-opacity=".06" stroke-width="2"/>
+</svg>
