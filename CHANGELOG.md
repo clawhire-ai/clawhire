@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.2.0 — 10-Agent Community Pack
 
 - Expanded the Community Pack from six to ten stateless Agents.
 - Added Brand Positioning Advisor, Sales Message Advisor, Customer Feedback Analyst and Project Scope Reviewer.
