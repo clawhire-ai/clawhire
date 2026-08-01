@@ -47,10 +47,19 @@ These files do not include ClawHire's dynamic discovery, automatic role selectio
 
 ClawHire is a commercial subscription product. Its core orchestration platform is not included in this repository.
 
+### How is this different from open-source AI employee projects?
+
+Many open-source AI employee projects publish role prompts, personas or “employee handbooks.” They are useful for learning and one-off tasks, but the user usually has to choose each role, pass context between agents, resolve conflicts and combine the final output manually.
+
+Hosted ClawHire is not simply a larger prompt collection. It includes a broader, continuously expanding library of professional roles, while an AI CEO dynamically discovers the project, forms consensus, selects the right roles, coordinates multi-agent work, preserves project state, organizes cross-review and continues revisions from your feedback. The paid value is an operating AI team system—not a folder of static prompt files.
+
+The six Community Agents in this repository are lightweight public editions from the ClawHire role system. They demonstrate our working method and provide genuine standalone value, but they do not represent the number of roles or the complete capability of the hosted product.
+
 | Capability | Community Pack | Hosted ClawHire |
 |---|---:|---:|
 | Lightweight templates | ✓ | ✓ |
 | Manual one-off use | ✓ | ✓ |
+| Broader, continuously expanding role library | — | ✓ |
 | Dynamic AI CEO discovery | — | ✓ |
 | Automated multi-role coordination | — | ✓ |
 | Persistent project state | — | ✓ |
