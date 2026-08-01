@@ -4,21 +4,71 @@
 
 # ClawHire AI
 
-### You set the direction. Your AI team moves the work forward.
+### Not another folder of agents. A coordinated AI team that moves projects forward.
 
-[⭐ Star and follow updates](https://github.com/clawhire-ai/clawhire) · [Browse Community Agents](#community-agents) · [Apply for an invite](https://clawhireai.com/?utm_source=github&utm_medium=readme_en&utm_campaign=invite_application) · [中文](./README.md)
+You set the goal and make key decisions. An AI CEO discovers the project, creates a plan and assembles specialized AI employees. Their work, reviews and revisions stay together in one workspace.
+
+[⭐ Star and follow](https://github.com/clawhire-ai/clawhire) · [Use the free Community Pack](#what-is-free) · [View a real example](#real-product-view) · [Apply for a paid invite](https://clawhireai.com/?utm_source=github&utm_medium=readme_en&utm_campaign=invite_application) · [中文](./README.md)
 
 </div>
 
-## What is ClawHire?
+---
 
-ClawHire is an invite-only workspace where an AI CEO clarifies a project, creates a plan and coordinates specialized AI employees across research, product, design, engineering and operations. You set the goal, make key decisions and review the deliverables.
+## The difference in one sentence
 
-> Open registration is not available. Approved applicants receive a one-time invite code by email or direct contact.
+> **Open agent libraries answer “Which agent can I call?” ClawHire answers “How does an AI team keep a real project moving and deliver the result?”**
+
+Many open-source AI employee projects publish role prompts, personas or installable agent files. They are excellent for learning and one-off work, but users usually still choose each role, pass context, decide the next step, resolve conflicts and combine the outputs.
+
+ClawHire is project-centered. An AI CEO clarifies the goal, selects the right roles, coordinates execution and cross-review, while the system preserves consensus, progress, versions and deliverables. You stay in control at the decision points.
+
+![How ClawHire moves a project from idea to delivery](./assets/value-flow.svg)
+
+## What is free
+
+The intentionally lightweight **Community Pack** provides genuine standalone value:
+
+| Public resource | Included | What it gives you |
+|---|---:|---|
+| Community Agents | 6 | Copy, modify and call them manually in compatible AI tools |
+| Lite workflows | 3 | Manually coordinate several roles using our project method |
+| Sanitized end-to-end example | 1 | See how four roles validate a product idea together |
+| Roadmap, FAQ and community docs | Ongoing | Understand boundaries and contribute ideas |
+
+These MIT-licensed resources do **not** include the complete AI CEO instructions, automatic planning and scheduling, persistent project state, model routing, internal quality rules or the commercial platform source code.
+
+## What the paid invite adds
+
+Hosted ClawHire is not simply more Markdown files. It is the system that keeps the team operating.
+
+![Community Pack versus hosted ClawHire](./assets/community-vs-hosted.svg)
+
+| Capability | Free Community Pack | Paid hosted ClawHire |
+|---|---:|---:|
+| Lightweight role templates and manual one-off use | ✓ | ✓ |
+| Broader, continuously expanding professional role library | — | ✓ |
+| Dynamic AI CEO discovery and project consensus | — | ✓ |
+| Automatic role selection and task planning | — | ✓ |
+| Shared context and coordinated multi-role delivery | Manual | ✓ |
+| Persistent progress, deliverables and versions | — | ✓ |
+| Cross-review, human approval and continued revisions | — | ✓ |
+| Deliverable center, usage credits and hosted operations | — | ✓ |
+
+These capabilities require ongoing orchestration, model calls, project state, storage, permissions and service operations. We open useful methods and templates while keeping the operating system behind the subscription product.
+
+> Open registration is unavailable. Approved applicants receive a one-time invite code by email or direct contact.
+
+[Apply for an invite →](https://clawhireai.com/?utm_source=github&utm_medium=readme_en&utm_campaign=invite_application)
+
+## Real product view
+
+This is a sanitized ClawHire project workspace, not a conceptual mockup. An AI CEO coordinates market research, user research, product strategy and risk review for an AI nutrition product validation project.
+
+![ClawHire AI nutrition product validation workspace](./assets/project-workspace.png)
+
+[View the complete sanitized example](./examples/ai-recipe-validation/README.md).
 
 ## Community Agents
-
-This repository includes six useful, stateless agents for manual, one-off use:
 
 | Agent | Best used for |
 |---|---|
@@ -29,57 +79,28 @@ This repository includes six useful, stateless agents for manual, one-off use:
 | [Office Process Analyst](./community-agents/office-process-analyst.md) | Workflows, SOPs and automation opportunities |
 | [Risk Reviewer](./community-agents/risk-reviewer.md) | Evidence, logic, scope and major risks |
 
-These files do not include ClawHire's dynamic discovery, automatic role selection, persistent project state or hosted multi-role orchestration.
-
 ## Manual workflows
 
 - [Product Brief Lite](./workflows/product-brief-lite.md)
 - [Weekly Content Plan Lite](./workflows/weekly-content-plan-lite.md)
 - [Office Automation Assessment Lite](./workflows/office-automation-assessment-lite.md)
 
-## Product demo
+## Current product boundary
 
-![ClawHire project workspace](./assets/project-workspace.png)
+The invite build currently focuses on discovery, planning, multi-role collaboration and versioned text/Markdown deliverables. Web research, code execution, deployment, media production and external email, spreadsheet or publishing actions remain in development. Roadmap capabilities are not presented as already available.
 
-[View the sanitized example](./examples/ai-recipe-validation/README.md) of an AI recipe product validation project coordinated across market research, user research, product strategy and risk review.
-
-## Community Pack vs. hosted ClawHire
-
-ClawHire is a commercial subscription product. Its core orchestration platform is not included in this repository.
-
-### How is this different from open-source AI employee projects?
-
-Many open-source AI employee projects publish role prompts, personas or “employee handbooks.” They are useful for learning and one-off tasks, but the user usually has to choose each role, pass context between agents, resolve conflicts and combine the final output manually.
-
-Hosted ClawHire is not simply a larger prompt collection. It includes a broader, continuously expanding library of professional roles, while an AI CEO dynamically discovers the project, forms consensus, selects the right roles, coordinates multi-agent work, preserves project state, organizes cross-review and continues revisions from your feedback. The paid value is an operating AI team system—not a folder of static prompt files.
-
-The six Community Agents in this repository are lightweight public editions from the ClawHire role system. They demonstrate our working method and provide genuine standalone value, but they do not represent the number of roles or the complete capability of the hosted product.
-
-| Capability | Community Pack | Hosted ClawHire |
-|---|---:|---:|
-| Lightweight templates | ✓ | ✓ |
-| Manual one-off use | ✓ | ✓ |
-| Broader, continuously expanding role library | — | ✓ |
-| Dynamic AI CEO discovery | — | ✓ |
-| Automated multi-role coordination | — | ✓ |
-| Persistent project state | — | ✓ |
-| Approvals, revisions and deliverable center | — | ✓ |
-| Model routing, credits and service operations | — | ✓ |
-
-The current invite build focuses on project planning and text/Markdown deliverables. Web research, code execution, deployment, media production and external workplace or publishing integrations remain in development.
-
-## Get involved
+## Community and license
 
 - Read the [Roadmap](./ROADMAP.md), [FAQ](./FAQ.md) and [Changelog](./CHANGELOG.md).
-- Share a project or feature idea in Discussions.
-- Report a public template issue through Issues.
+- Share scenarios and ideas in [Discussions](https://github.com/clawhire-ai/clawhire/discussions).
 - Read the [Contributing Guide](./CONTRIBUTING.md) and [Security Policy](./SECURITY.md).
 
-Do not post customer data, credentials or confidential business information in public issues or discussions.
+Public templates and documentation use the [MIT License](./LICENSE). The hosted platform remains commercial and its core source code is not included. The ClawHire name, logo and brand assets are excluded from the MIT grant; see [Trademark](./TRADEMARK.md).
 
-## License and brand
+<div align="center">
 
-Public templates and documentation are available under the [MIT License](./LICENSE). The hosted ClawHire platform remains commercial and its core source code is not included. The ClawHire name, logo and brand assets are not granted under the MIT License; see [Trademark](./TRADEMARK.md).
+**The free pack gives you the method. The paid product keeps the team running.**
 
-- Website and invite application: [clawhireai.com](https://clawhireai.com/?utm_source=github&utm_medium=readme_en&utm_campaign=invite_application)
-- Contact: [service@clawhireai.com](mailto:service@clawhireai.com)
+[Website](https://clawhireai.com/?utm_source=github&utm_medium=readme_en&utm_campaign=website) · [Apply for an invite](https://clawhireai.com/?utm_source=github&utm_medium=readme_en&utm_campaign=invite_application) · [service@clawhireai.com](mailto:service@clawhireai.com)
+
+</div>
